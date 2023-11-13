@@ -12,4 +12,5 @@ Use the inputs in the screenshot below and you should get similar results.
 
 ## Sample Output
 
-![image](https://github.com/EvansMungai/OvertimeCalculator/assets/69681950/939195c3-1e5e-416c-b525-e9f774497234)
+![image](https://github.com/EvansMungai/OvertimeCalculator/assets/69681950/8aad4c10-bef9-4c6a-aed4-1fd4e52b6ed9)
+
