@@ -1,4 +1,4 @@
-# OvertimeCalculator
+# Overtime Calculator Project
 
 **About this project**
 
@@ -10,6 +10,6 @@ You are required to write a program to calculate the overtime worked by an emplo
 Use the inputs in the screenshot below and you should get similar results.
 
 
-##Sample Output
+## Sample Output
 
 ![image](https://github.com/EvansMungai/OvertimeCalculator/assets/69681950/939195c3-1e5e-416c-b525-e9f774497234)
